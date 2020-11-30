@@ -1,0 +1,12 @@
+C:\Users\Магнат\source\repos\Islam\Islam\bin\Debug\Islam.exe.config
+C:\Users\Магнат\source\repos\Islam\Islam\bin\Debug\Islam.exe
+C:\Users\Магнат\source\repos\Islam\Islam\bin\Debug\Islam.pdb
+C:\Users\Магнат\source\repos\Islam\Islam\obj\Debug\Islam.csprojAssemblyReference.cache
+C:\Users\Магнат\source\repos\Islam\Islam\obj\Debug\Islam.Form1.resources
+C:\Users\Магнат\source\repos\Islam\Islam\obj\Debug\Islam.Properties.Resources.resources
+C:\Users\Магнат\source\repos\Islam\Islam\obj\Debug\Islam.csproj.GenerateResource.cache
+C:\Users\Магнат\source\repos\Islam\Islam\obj\Debug\Islam.csproj.CoreCompileInputs.cache
+C:\Users\Магнат\source\repos\Islam\Islam\obj\Debug\Islam.exe
+C:\Users\Магнат\source\repos\Islam\Islam\obj\Debug\Islam.pdb
+C:\Users\Магнат\source\repos\Islam\Islam\obj\Debug\Islam.Form2.resources
+C:\Users\Магнат\source\repos\Islam\Islam\obj\Debug\Islam.Form3.resources
