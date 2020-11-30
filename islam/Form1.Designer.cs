@@ -55,7 +55,6 @@
             this.textBox10 = new System.Windows.Forms.TextBox();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.comboBox2 = new System.Windows.Forms.ComboBox();
-            this.label15 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -312,24 +311,12 @@
             this.comboBox2.Size = new System.Drawing.Size(217, 21);
             this.comboBox2.TabIndex = 26;
             // 
-            // label15
-            // 
-            this.label15.AutoSize = true;
-            this.label15.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label15.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(169)))), ((int)(((byte)(175)))));
-            this.label15.Location = new System.Drawing.Point(649, 155);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(109, 18);
-            this.label15.TabIndex = 27;
-            this.label15.Text = "Фотография";
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Gray;
             this.ClientSize = new System.Drawing.Size(789, 576);
-            this.Controls.Add(this.label15);
             this.Controls.Add(this.comboBox2);
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.textBox10);
@@ -394,7 +381,6 @@
         private System.Windows.Forms.TextBox textBox10;
         private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.ComboBox comboBox2;
-        private System.Windows.Forms.Label label15;
     }
 }
 
